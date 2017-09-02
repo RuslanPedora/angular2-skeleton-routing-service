@@ -1,0 +1,13 @@
+#app-div {
+    background-color: #CEECF5;
+    padding: 20px;
+}
+#router {
+    box-shadow: 0 0 5px 5px grey;
+    padding: 20px;
+    margin: 20px;
+}
+:host button {
+    margin: 10px;
+    cursor: pointer;
+}
